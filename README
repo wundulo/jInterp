@@ -1,0 +1,5 @@
+jInterp is a project that uses Java reflection API and dynamic compilation to simulate a Python-like interpreter.
+
+You can declare variables and functions within one line.
+
+Give it a try!
